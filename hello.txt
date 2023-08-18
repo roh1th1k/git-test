@@ -1,0 +1,1 @@
+This is a sample text to practice staging and commiting modifications of hello.txt file
